@@ -5,7 +5,6 @@
 
 - **Hallucination of Multimodal Large Language Models: A Survey.pdf**  
   论文原文（已阅读）
-
 - **survey-Hallucination of MLLM.md**  
   论文阅读笔记与总结
 
